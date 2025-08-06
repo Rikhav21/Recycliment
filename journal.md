@@ -63,4 +63,5 @@ Today I just did all of the stuff so that I was ready to submit my design. I mad
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eda4dccafc3444bb0dca5b9e87c9fb5b17470856_pid.png)
 
 ** Total time: 4 hours**
-
+# Day 10
+OK, so most of my parts have arrived and I decided to build the filament shedder first. It is sort of a micro shredder, so I just collected most of my printeds purge lines and speghetti. I think that the shredder is OK, for small peices like thse, but is not anywhere close to shredding something like a benchy. So I think that it is oK for this project, but this is definately something that I would want to update in a version 2.
