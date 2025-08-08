@@ -3,7 +3,7 @@ title: "Recyclment"
 author: "Rikhac, (Rmardia)"
 description: "I aim to make a relatively cheap filament recylcing machine!"
 created_at: "2024-05-30"
-Time spend: "31 hours"
+Time spend: "37 and a half hours"
 ---
 
 # Recycliment
