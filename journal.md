@@ -65,3 +65,8 @@ Today I just did all of the stuff so that I was ready to submit my design. I mad
 ** Total time: 4 hours**
 # Day 10
 OK, so most of my parts have arrived and I decided to build the filament shedder first. It is sort of a micro shredder, so I just collected most of my printeds purge lines and speghetti. I think that the shredder is OK, for small peices like thse, but is not anywhere close to shredding something like a benchy. So I think that it is oK for this project, but this is definately something that I would want to update in a version 2.
+** Total time spent, 3 and a half hours**
+# Day 11
+So today I spent my time trying to work a little bit more with my shredder, but I also started fixing together some more of my metal parts for the extruder. The auger was not fitting into the iron nipple, because of a welding ridge, so I had to sand it down manually, and now there it is metal dust ALL OVER MY ROOM, and I am suprised how just a single welding ridge can turn so much of my room gray. So another thing that I found was that one of my parts from homw depo, was slightly bent, so it was not exactly aligned with the rest of the assembly. So I had to redrill a few holes, but it looks like these is going to be a little bit of a gap, from which the plastic peices can fall, but I think that it should work out anyway.
+**Total time spent: 2 hours**
+
