@@ -65,8 +65,17 @@ Today I just did all of the stuff so that I was ready to submit my design. I mad
 ** Total time: 4 hours**
 # Day 10
 OK, so most of my parts have arrived and I decided to build the filament shedder first. It is sort of a micro shredder, so I just collected most of my printeds purge lines and speghetti. I think that the shredder is OK, for small peices like thse, but is not anywhere close to shredding something like a benchy. So I think that it is oK for this project, but this is definately something that I would want to update in a version 2.
+
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/76e8e07edbeb36eef530e5be4630194d8f6677c5_image.png)
 ** Total time spent, 3 and a half hours**
+
 # Day 11
 So today I spent my time trying to work a little bit more with my shredder, but I also started fixing together some more of my metal parts for the extruder. The auger was not fitting into the iron nipple, because of a welding ridge, so I had to sand it down manually, and now there it is metal dust ALL OVER MY ROOM, and I am suprised how just a single welding ridge can turn so much of my room gray. So another thing that I found was that one of my parts from homw depo, was slightly bent, so it was not exactly aligned with the rest of the assembly. So I had to redrill a few holes, but it looks like these is going to be a little bit of a gap, from which the plastic peices can fall, but I think that it should work out anyway.
+
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d3fd395cde735b6afc86970e121db87cc7d288ed_image.png)
+
 **Total time spent: 2 hours**
+
+# Day 12
+So I assembled the rest of the thing and started with the wiring. I was able to attatch most of the piping together, even though I did have to do a lot more sanding and drilling. I guess tomossow I am going to work on the heating and the PID control, but for now I think that I am done with all of the basic mechanical connections, and the 
 
