@@ -4,6 +4,12 @@ This is supposed to be a really affordable filament recycler. Basically it is ma
 ## Why I made this
 So for this I mainly jsut want to recyle the over 3 kg of filament waste I have I print way to much, and although it will probably not save me money right now, I also want to experiment with making different types of filaments. I saw CNC kitchen make filament from plastic spoons, and I wanted to saw what other types of filaments that I could make, maybe with wood fillings or othe rodd types of filaments, that I think would be cool to jmake. I also want to sort of experiment with different extrusion ways to learn a little bit more about how filament is made, because i am really interested  in the 3d printing space. I also wanted to see if I could blend different pellets to make composite filamets with different properties.
 
+## Pics!!!
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e9706a7fbd9c4304c53601e7be8fb37ddaf4f77_20250802_183807.jpg)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c723223999320bfbf8b7ecf24a8367c34bd9363e_20250802_183759.jpg)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b8064a850ea338495d67aa63339344b5464bc302_20250802_183755.jpg)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fa699811f36065cbe2515ec30db450a5ccd32618_20250802_183746.jpg)
+
 ## CAD
 I have the link for [Onshape](https://cad.onshape.com/documents/f48d7279894860b6ba842288/w/ddca002676b835894c3001ed/e/73c4766b2e0be6da7adfd5e1?renderMode=0&uiState=6848c3cd49e7b737193d131e), along with the step files in the repo. Here I have the entire filament assembly, and the parts in blue are going to be custom made, the boards are going to be made of wood, while the rest is printed.
 
