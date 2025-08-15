@@ -3,7 +3,7 @@ title: "Recyclment"
 author: "Rikhac, (Rmardia)"
 description: "I aim to make a relatively cheap filament recylcing machine!"
 created_at: "2024-05-30"
-Time spend: "37 and a half hours"
+Time spend: "58 and a half hours"
 ---
 
 # Recycliment
@@ -99,3 +99,7 @@ OK, so today I think that I got the insulation worked up, and I tried extruding 
 # Day 15
 OK so I think that I finished enough of the project to ask for stipends, although there is opbviously more work to be done to make printable filament, I am able to produce a really bumpy 3 mm filament, which I hope should be enough before making a few more upgrades until printable 1.75 mm filament. I had to work a little bit more with temp and speed control today, but I was able to get some filament strands that were about 10 cm long, even though they were rather bumpy.
 
+** Total time spent 3 hours **
+# Day 16
+So today I mainly worked on updating my repo, making a [youtube demo video](https://youtu.be/7FujavgUGrU), and doing some more documentation for this project. 
+** total time spent: 3 and a half hours.
