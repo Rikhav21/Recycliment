@@ -77,5 +77,25 @@ So today I spent my time trying to work a little bit more with my shredder, but 
 **Total time spent: 2 hours**
 
 # Day 12
-So I assembled the rest of the thing and started with the wiring. I was able to attatch most of the piping together, even though I did have to do a lot more sanding and drilling. I guess tomossow I am going to work on the heating and the PID control, but for now I think that I am done with all of the basic mechanical connections, and the 
+So I assembled the rest of the thing and started with the wiring. I was able to attatch most of the piping together, even though I did have to do a lot more sanding and drilling. I guess tomossow I am going to work on the heating and the PID control, but for now I think that I am done with all of the basic mechanical connections, and the fitting of the motors and the soldering the electronics together. Now tommmorow I am just going to work on the heating components of the machine, and do the insulation and other things.
+
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c723223999320bfbf8b7ecf24a8367c34bd9363e_20250802_183759.jpg)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b8064a850ea338495d67aa63339344b5464bc302_20250802_183755.jpg)
+
+** Total time spent: 5 and a half hours**
+
+# Day 13
+Today I tried to wire uo the suff with the heating, but it turned out be like 10 times harder than the rest of the the assembly, but I am still not done. First I was having some trouble with the SSR that I bought, and it turned out that the SSR was faulty, so I had to swap it out. Also the heater was lightly to small to fit over the coupler like I planned so I am going to have to make a seperate insulation chamber. The kapton tape started smoking at around 80 degrees, which means that it was probably not genuine, but I just added a lot more tape, and that was able to keep it help down. Also I managed to burn the metal sheath around my thermocouppler because I coused a short curcuit, but it ended up being fine. But on the bright side, I did get the PID controller working.
+
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/605662902dc627b39e8a5bd172f8611f8993f700_20250724_173752.jpg)
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fa699811f36065cbe2515ec30db450a5ccd32618_20250802_183746.jpg)
+** Total time spent: 4 hours **
+
+# Day 14
+OK, so today I think that I got the insulation worked up, and I tried extruding filament for the first time today. Admittedly there was a lot of smoke, and I was not exactly extemely successful, because I only got around 2 cm out, I am still really happy, because it was a proof that this concept can work. Also there was a little bit more smoking because of the tape again, but I think taht now it is fine. Also I was experiencing some jams because the heat was creeping up the pipes, and stopping melting the plastic earlier in the tube. I was able to fix this by adding more insulation, but I feel like it is sort of a temporary fix.
+![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e9706a7fbd9c4304c53601e7be8fb37ddaf4f77_20250802_183807.jpg)
+** Total Time spent 5 and a half hours **
+
+# Day 15
+OK so I think that I finished enough of the project to ask for stipends, although there is opbviously more work to be done to make printable filament, I am able to produce a really bumpy 3 mm filament, which I hope should be enough before making a few more upgrades until printable 1.75 mm filament. I had to work a little bit more with temp and speed control today, but I was able to get some filament strands that were about 10 cm long, even though they were rather bumpy.
 
