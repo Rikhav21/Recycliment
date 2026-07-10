@@ -6,7 +6,7 @@ This is supposed to be a really affordable filament recycler. Basically it is ma
 So for this I mainly jsut want to recyle the over 3 kg of filament waste I have I print way to much, and although it will probably not save me money right now, I also want to experiment with making different types of filaments. I saw CNC kitchen make filament from plastic spoons, and I wanted to saw what other types of filaments that I could make, maybe with wood fillings or othe rodd types of filaments, that I think would be cool to jmake. I also want to sort of experiment with different extrusion ways to learn a little bit more about how filament is made, because i am really interested  in the 3d printing space. I also wanted to see if I could blend different pellets to make composite filamets with different properties.
 
 ## Pics!!!
-![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e9706a7fbd9c4304c53601e7be8fb37ddaf4f77_20250802_183807.jpg)
+![IMG]()
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c723223999320bfbf8b7ecf24a8367c34bd9363e_20250802_183759.jpg)
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b8064a850ea338495d67aa63339344b5464bc302_20250802_183755.jpg)
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fa699811f36065cbe2515ec30db450a5ccd32618_20250802_183746.jpg)
@@ -28,7 +28,7 @@ So this is just for the filament diameter sensor and is completely optional. I w
 
 ## Schematic
 This is the schemeatic that I plan to use to build my filament extruder. This one is for my extruder.
-![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eda4dccafc3444bb0dca5b9e87c9fb5b17470856_pid.png)
+![IMG](imgs/PID.png)
 And this one is for the winder and the puller.
 ![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef8c35f18f197abcbcd562725b29a1f69b60020c_untitled_drawing.png)
 
