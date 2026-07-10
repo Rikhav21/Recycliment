@@ -30,7 +30,7 @@ So this is just for the filament diameter sensor and is completely optional. I w
 This is the schemeatic that I plan to use to build my filament extruder. This one is for my extruder.
 ![IMG](imgs/PID.png)
 And this one is for the winder and the puller.
-![IMG](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef8c35f18f197abcbcd562725b29a1f69b60020c_untitled_drawing.png)
+![IMG](imgs/puller.png)
 
 ## BOM
 | Part Name          | Category   | Price |
